@@ -1,7 +1,6 @@
 package com.adekunle.service.productServiceImpl;
 
 import com.adekunle.dto.ProductDto;
-import com.adekunle.entity.Product;
 import com.adekunle.repository.ProductRepository;
 import com.adekunle.service.productService.ProductService;
 import com.adekunle.utils.AppUtils;
